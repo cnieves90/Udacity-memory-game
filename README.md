@@ -4,6 +4,31 @@
 
 * [Instructions](#instructions)
 * [Contributing](#contributing)
+* [About](#about)
+* [How to Play](#how to play)
+* [Download](#download)
+* [Code Acknowledgement](#code acknowledgement)
+
+
+## About
+
+This game is simply about testing how well a users memory is.
+
+## How to Play
+
+Start by clicking any gray card to reveal its image. Try to match each card with its identical match.
+Once 8 pairs have been made, you have won the game. Be careful on how many moves you make because it
+can cost you a star. Try to match all 8 pairs under 16 moves in order to win the game with 3 stars.
+
+Test your speed ability by checking the clock each time you win. Keep practicing for a better score
+
+## Download
+
+In order to play the game you clone this repository https://github.com/cnieves90/Udacity-memory-game from Github. Once it has been installed open up the index.html file in your browser and start playing.
+
+## Code Acknowledgement
+
+Shuffle function was provided by Udacity by stackoverflow. Followed walkthrough by Matthew Cranford and converted JavaScript into my own writing.
 
 ## Instructions
 
