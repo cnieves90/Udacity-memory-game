@@ -10,14 +10,14 @@ html {
 
 html,
 body {
-    width: 100%;
+    max-width: 100%;
     height: 100%;
     margin: 0;
     padding: 0;
 }
 
 body {
-    background: #ffffff url('../img/geometry2.png'); 
+    background: #ffffff url('../img/geometry2.png');
     font-family: 'Coda', cursive;
 }
 
@@ -39,7 +39,7 @@ h1 {
 
 .deck {
     width: 660px;
-    min-height: 680px;
+    height: 680px;
     background: linear-gradient(160deg, #02ccba 0%, #aa7ecd 100%);
     padding: 32px;
     border-radius: 10px;
@@ -164,4 +164,23 @@ h1 {
 .modal__button {
     width: 60px;
     height: 30px;
+}
+@media screen and (min-width: 320px) and (max-width: 881px) {
+  .deck {
+    width: 260px;
+    height: 280px;
+  }
+  .deck .card {
+    width: 45px;
+    height: 45px;
+  }
+  .score-panel {
+    width: 200px;
+  }
+  .modal__body {
+    width: 300px;
+  }
+  .modal__title {
+    font-size: 1rem;
+  }
 }
