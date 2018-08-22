@@ -228,8 +228,9 @@ function cardsReset() {
     const cards = document.querySelectorAll('.deck li');
     for (let card of cards) {
         card.className = 'card';
+        toggledCards = [];
     }
-}
+};
 
 /*
  * set up the event listener for a card. If a card is clicked:
