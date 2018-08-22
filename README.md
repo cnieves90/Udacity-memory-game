@@ -5,9 +5,9 @@
 * [Instructions](#instructions)
 * [Contributing](#contributing)
 * [About](#about)
-* [How_to_Play](#how to play)
+* [How to Play](#how-to-play)
 * [Download](#download)
-* [Acknowledgement](#acknowledgement)
+* [Code Acknowledgement](#code-acknowledgement)
 
 
 ## About
